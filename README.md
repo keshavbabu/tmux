@@ -1,0 +1,1 @@
+my minimal tmux config
